@@ -1,0 +1,13 @@
+ Volume in drive C is OS
+ Volume Serial Number is 120C-6732
+
+ Directory of C:\Users\gursh\Desktop\JavaProject
+
+2018-11-07  09:30 PM    <DIR>          .
+2018-11-07  09:30 PM    <DIR>          ..
+2018-11-07  09:26 PM               470 readme.txt
+2018-11-07  09:10 PM               691 sampleProject.class
+2018-11-07  09:10 PM               171 sampleProject.java
+2018-11-07  09:30 PM                 0 triggertest.txt
+               4 File(s)          1,332 bytes
+               2 Dir(s)  68,013,850,624 bytes free
